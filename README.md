@@ -8,5 +8,5 @@
 ##      3. CLICK RUN BUTTON
 ##      NOTE:  DO NOT USE INTERNET EXPLORER OR EDGE BROWSER TO RUN THIS CODE. IT HAS COMPATABLITY ISSIES
 ##
-##        __author__ Temesgen
+##        __author__: Temesgen
 ######################################################################################################
