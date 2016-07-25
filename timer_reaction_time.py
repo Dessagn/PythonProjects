@@ -1,9 +1,16 @@
-############################################
-#
-#ONLINE URL FOR THIS CODE IS 
-# http://www.codeskulptor.org/#user41_BkKG0aqFP5hyvVr.py
-#
-#############################################
+######################################################################################################
+##      ********HOW TO RUN THIS CODE************
+##
+##      1. COPY OR DOWNLOAD THE FILE
+##      2. GO TO www.codeskulpter.org, DELETE THE DEFAULT CONTENT AND PASTE THIS CODE.
+##      3. CLICK RUN BUTTON
+##      NOTE:  DO NOT USE INTERNET EXPLORER OR EDGE BROWSER TO RUN THIS CODE. IT HAS COMPATABLITY ISSIES
+##      ONLINE URL FOR THIS CODE IS 
+##      http://www.codeskulptor.org/#user41_BkKG0aqFP5hyvVr.py
+##
+##        __author__ Temesgen
+######################################################################################################
+
 
 # Timers
 # Reaction Time
